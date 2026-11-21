@@ -1,0 +1,43 @@
+import 'package:flutter/material.dart';
+
+/// Placeholder for modules that are built in a later step.
+class ComingSoonPage extends StatelessWidget {
+  const ComingSoonPage({
+    super.key,
+    required this.icon,
+    required this.title,
+    required this.message,
+  });
+
+  final IconData icon;
+  final String title;
+  final String message;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    return Center(
+      child: Padding(
+        padding: const EdgeInsets.all(32),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(icon, size: 40, color: theme.colorScheme.onSurfaceVariant),
+            const SizedBox(height: 16),
+            Text(title, style: theme.textTheme.titleMedium),
+            const SizedBox(height: 8),
+            Text(
+              message,
+              textAlign: TextAlign.center,
+              style: theme.textTheme.bodyMedium
+                  ?.copyWith(color: theme.colorScheme.onSurfaceVariant),
+            ),
+            const SizedBox(height: 16),
+            Text('Coming in the next build step.',
+                style: theme.textTheme.labelMedium),
+          ],
+        ),
+      ),
+    );
+  }
+}
