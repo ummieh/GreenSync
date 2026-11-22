@@ -123,7 +123,6 @@ GreenSync/
 |Orders|Learn|
 | ![Order](Screenshots/ORDER.png) | ![LEARN](Screenshots/LEARN.png) |
 | Pick Up| Recycling Centers |
-|---------|---------|
 | ![PICKUP](Screenshots/PICKUP.png) | ![RECYCLINGCENTERS](Screenshots/RECYCLING_CENTERS.png) |
 
 ---
