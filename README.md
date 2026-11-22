@@ -113,9 +113,13 @@ GreenSync/
 ## 📸 Screenshots
 
 <!-- Add screenshots to a /screenshots folder and update these paths -->
-| Home | Collect | Market | Rewards |
-|------|---------|--------|---------|
-| ![Home](screenshots/home.png) | ![Collect](screenshots/collect.png) | ![Market](screenshots/market.png) | ![Rewards](screenshots/rewards.png) |
+| Home | Collect | Market |
+|------|---------|--------|
+| ![Home](screenshots/HOME.png) | ![Collect](screenshots/COLLECT.png) | ![Market](screenshots/MARKET.png) |
+
+| Rewards | Profile |
+|---------|---------|
+| ![Rewards](screenshots/REWARDS.png) | ![Profile](screenshots/PROFILE.png) |
 
 ---
 
