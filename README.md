@@ -112,18 +112,23 @@ GreenSync/
 
 ## 📸 Screenshots
 
-<!-- Add screenshots to a /screenshots folder and update these paths -->
+### Customer Screens
+
 | Home | Collect | Market |
-|------|---------|--------|
+|---|---|---|
 | ![Home](Screenshots/HOME.png) | ![Collect](Screenshots/COLLECT.png) | ![Market](Screenshots/MARKET.png) |
 
-| Rewards | Profile |
-|---------|---------|
-| ![Rewards](Screenshots/REWARDS.png) | ![Profile](Screenshots/PROFILE.png) || Order | Learn |
-|Orders|Learn|
-| ![Order](Screenshots/ORDER.png) | ![LEARN](Screenshots/LEARN.png) |
-| Pick Up| Recycling Centers |
-| ![PICKUP](Screenshots/PICKUP.png) | ![RECYCLINGCENTERS](Screenshots/RECYCLING_CENTERS.png) |
+### Rewards and Orders
+
+| Rewards | Profile | Orders |
+|---|---|---|
+| ![Rewards](Screenshots/REWARDS.png) | ![Profile](Screenshots/PROFILE.png) | ![Orders](Screenshots/ORDER.png) |
+
+### Learning and Recycling
+
+| Learn | Pickup | Recycling Centres |
+|---|---|---|
+| ![Learn](Screenshots/LEARN.png) | ![Pickup](Screenshots/PICKUP.png) | ![Recycling Centres](Screenshots/RECYCLING_CENTERS.png) |
 
 ---
 
