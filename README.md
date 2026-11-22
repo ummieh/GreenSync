@@ -120,9 +120,9 @@ GreenSync/
 | Rewards | Profile |
 |---------|---------|
 | ![Rewards](Screenshots/REWARDS.png) | ![Profile](Screenshots/PROFILE.png) || Order | Learn |
-|---------|---------|
+|Orders|Learn|
 | ![Order](Screenshots/ORDER.png) | ![LEARN](Screenshots/LEARN.png) |
-| PICKUP| RECYCLING CENTERS |
+| Pick Up| Recycling Centers |
 |---------|---------|
 | ![PICKUP](Screenshots/PICKUP.png) | ![RECYCLINGCENTERS](Screenshots/RECYCLING_CENTERS.png) |
 
