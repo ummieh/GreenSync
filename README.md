@@ -115,11 +115,11 @@ GreenSync/
 <!-- Add screenshots to a /screenshots folder and update these paths -->
 | Home | Collect | Market |
 |------|---------|--------|
-| ![Home](screenshots/HOME.png) | ![Collect](screenshots/COLLECT.png) | ![Market](screenshots/MARKET.png) |
+| ![Home](Screenshots/HOME.png) | ![Collect](Screenshots/COLLECT.png) | ![Market](Screenshots/MARKET.png) |
 
 | Rewards | Profile |
 |---------|---------|
-| ![Rewards](screenshots/REWARDS.png) | ![Profile](screenshots/PROFILE.png) |
+| ![Rewards](Screenshots/REWARDS.png) | ![Profile](Screenshots/PROFILE.png) |
 
 ---
 
